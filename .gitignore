@@ -1,0 +1,4 @@
+mysite/py_blog/__pycache__
+mysite/py_blog/migrations
+mysite/mysite/__pycache__
+mysite/db.sqlite3
